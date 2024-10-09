@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Adeel Hussain 👋<br><br>I'm a passionate developer with expertise in React, TypeScript, and .NET. I enjoy building web applications and exploring new technologies. <br><br>## 🔧 Skills and Technologies<br>- Frontend: React, TypeScript, JavaScript, Material-UI<br>- Backend: .NET, ASP.NET Core, RESTful APIs<br>- Database: DynamoDB, SQL Server<br>- Tools: Git, GitHub, VS Code
+# Hi there, I'm Adeel Hussain 👋<br><br>I'm a passionate developer with expertise in React, TypeScript, and .NET. I enjoy building web applications and exploring new technologies. <br><br>## 🔧 Skills and Technologies<br>- Frontend: React, TypeScript, JavaScript, Material-UI,TailwindCss <br>- Backend: .NET, ASP.NET Core, RESTful APIs<br>- Database: DynamoDB, SQL Server<br>- Tools: Git, GitHub, VS Code
 
 
 ## 🌐 Socials:
